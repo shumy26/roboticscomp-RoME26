@@ -39,6 +39,11 @@ Then, use the logo provided below at the button indicated with the red arrow, an
 
 ![](images/groot2.png)
 
-####### Logo: 
+###### Logo: 
 ![groot logo](images/logo.png)
+
+## BT.cpp integration with ROS2
+
+Refer to the documentation [here](https://github.com/BehaviorTree/BehaviorTree.ROS2).
+
 
