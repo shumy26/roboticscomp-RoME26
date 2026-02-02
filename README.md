@@ -1,5 +1,7 @@
 # Robotics Competition - RoME 26
 
+![romelogo](robo.png)
+
 ## Pre-requisites
 
 - Ubuntu 22.04 LTS 
