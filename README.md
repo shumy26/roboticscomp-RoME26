@@ -1,6 +1,6 @@
 # Robotics Competition - RoME 26
 
-![romelogo](robo.png)
+![romelogo](images/robo.png)
 
 ## Pre-requisites
 
@@ -22,7 +22,7 @@ Instructions are available [here](https://gazebosim.org/docs/fortress/install_ub
 
 ## Installing Groot
 
-You can install an AppImage [here](https://www.behaviortree.dev/groot/)
+You can install an AppImage [here](https://www.behaviortree.dev/groot/).
 
 Afterwards, don't forget to make it executable via 
 ```sh
